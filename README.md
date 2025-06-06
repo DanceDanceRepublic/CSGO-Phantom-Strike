@@ -1,2 +1,2 @@
-# C2GO-HUNT3rW-r3
-C2GO Cheat
+# CS:GO CHEATS
+A cheat program known for the best features
